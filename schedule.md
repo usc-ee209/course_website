@@ -10,7 +10,8 @@ nav: lectures
 
 |  Lec      |                                          Topic                                                             |    Slides   | 
 | :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | 
-| **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>[[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>[[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
+| **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>\
+                                                                 [[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>[[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
 | **2**     | Constrol Unit Design                             | Previous Slide Units | 
 | **3**     | Verilog Review                                   | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/VerilogDiscussion.pdf)] | 
 | **4**     | Performance Metrics / Fixed Point Arithmetic     | [[Performance Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2_Performance_Notes.pdf)]<br>
