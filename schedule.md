@@ -8,26 +8,99 @@ nav: lectures
 
 ###Lecture Schedule
 
-|  Lec      |                                          Topic                                                             |    Slides   |  Notes  |
-| :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | ------ |
-| **1**     | Course Overview &ndash; Motivation for DS, Review of C++ Library classes [streams], Review of Dynamic Memory Management (C++ Interlude 2)     | [[PDF1]({{ site.url }}/lectures/slides/L01_Overview.pdf)] [[PDF2]({{ site.url }}/lectures/slides/L02_MemoryAllocation.pdf)]| [Chapters 1, 2, 3](DataStructures.pdf)|
-| **2**     | Memorial Day (No class)                                                     | | |
-| **3**     | Linked Lists (C++ Interludes 1, Chapter 4) and Abstract Data Types: Set, List, Dictionary/Map (Chapters 1, 8, 18)    | [[PDF1]({{ site.url }}/lectures/slides/L04_LinkedLists.pdf)] [[PDF2]({{ site.url }}/lectures/slides/L05_ADTs.pdf)] | [Chapters 5, 6](DataStructures.pdf) |
-| **4**     | Review of Recursion (Chapters 2, 5)                                                                 | [[PDF]({{ site.url }}/lectures/slides/L03_Recursion.pdf)] | [Chapter 4](DataStructures.pdf) |
-| **5**     | Classes, Templates (C++ Interludes 1), Exceptions (C++ Interlude 3), and Lists revisited: Array lists and vectors (Chapter 9)  | [[PDF]({{ site.url }}/lectures/slides/L06_Classes.pdf)]  [[PDF2]({{ site.url }}/lectures/slides/L11_ArrayList.pdf)]| [Chapters 7, 8, 9, 13](DataStructures.pdf) |
-| **6**     | Operator Overloading and Copy Constructors                                                          | [[PDF]({{ site.url }}/lectures/slides/L08_Operators_Copy.pdf)] | [Chapters 11](DataStructures.pdf) |
-| **7**     | Running Time and big-O notation (Chapters 1, 4, 10)                                                 | [[PDF]({{ site.url }}/lectures/slides/L07_Runtime.pdf)] | [Chapters 10](DataStructures.pdf) | 
-| **8**     | Inheritance and Polymorphism (C++ Interludes 1, 2, 4)                                               | [[PDF1]({{ site.url }}/lectures/slides/L09_Inheritance.pdf)] [[PDF2]({{ site.url }}/lectures/slides/L10_Polymorphism.pdf)]   | [Chapter 12](DataStructures.pdf) |
-| **9**     | Qt & Inheritance                         | [[PDF]({{ site.url }}/lectures/slides/L15_Qt.pdf)]  | [Chapter 18](DataStructures.pdf) |
-| **10**    | STL (C++ Interlude 7), Iterators (C++ Interlude 6)  | [[PDF]({{ site.url }}/lectures/slides/L13_STL.pdf)]  | [Chapters 15, 16](DataStructures.pdf) |
-| **11**    | Stacks and Queues (Chapters 6, 7, 13.1, 13.2, 14.1), Make Utility, and Search Algorithms, Sorted Lists (Chapters 10, 12)                                  | [[PDF1]({{ site.url }}/lectures/slides/L12_Queues_Stacks.pdf)] [[PDF2]({{ site.url }}/lectures/slides/MakeMultiCompilation.pdf)] [[PDF3]({{ site.url }}/lectures/slides/L14_Search.pdf)] | [Chapter 14, 17](DataStructures.pdf) | 
-| **12**    | Midterm                                                                                         |  |  |
-| **13**    | Sorting Algorithms (Chapter 11)                                                                        | [[PDF]({{ site.url }}/lectures/slides/L16_Sorting.pdf)]|  [Chapter 19](DataStructures.pdf) |
-| **14**    | Graphs, BFS, DFS, and PageRank (Chapters 20.1, 20.2, 20.3.1, 20.3.2)      | [[PDF]({{ site.url }}/lectures/slides/L17_Graphs.pdf)] | [Chapter 19, 20](DataStructures.pdf) |
-| **15**    | Trees and their Implementations (Chapter 15) and Tree Traversals and Search (Chapter 16) and Priority Queues (Chapters 13.3, 14.2, 17)                    | [[PDF]({{ site.url }}/lectures/slides/L18_TreesHeaps.pdf)] | [Chapter 21, 22](DataStructures.pdf) |
-| **16-17** | Balanced Search Trees (Chapter 19)                                                                         | [[PDF1]({{ site.url }}/lectures/slides/L19_BalancedBST_23.pdf)] [[PDF2]({{ site.url }}/lectures/slides/L20_BalancedBST_234_RB.pdf)] | [Chapters 23-24](DataStructures.pdf) |
-| **18-19** | Hash Tables and their Analysis (Chapter 18.4, lecture notes)                                         | [[PDF]({{ site.url }}/lectures/slides/L21_Hashing.pdf)] | [Chapter 25](DataStructures.pdf) |
-| **20**    | Bloom Filters, Tries and Suffix Trees   (additional handouts) and Other Graph Algorithms and A* search(Chapters 20.4.1--20.4.3, lecture notes)                                                 | [[PDF1]({{ site.url }}/lectures/slides/L22_OtherMapsSets.pdf)] [[PDF2]({{ site.url }}/lectures/slides/L23_GraphAlgorithms.pdf)]  | [Chapters 25, 26](DataStructures.pdf) |
-| **21**    | Design Patterns (Additional Handouts) and Review for Final    | [[PDF]({{ site.url }}/lectures/slides/L24_DesignPatterns.pdf)] | |
-| **22**    | Final Exam                                                                                  | | |
+|  Lec      |                                          Topic                                                             |    Slides   | 
+| :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | 
+| **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>
+                                                                 [[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>
+                                                                 [[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
+| **2**     | Constrol Unit Design                             | Previous Slide Units | 
+| **3**     | Verilog Review                                   | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/VerilogDiscussion.pdf)] | 
+| **4**     | Performance Metrics / Fixed Point Arithmetic     | [[Performance Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2_Performance_Notes.pdf)]<br>
+                                                                 [[Performance Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2_Performance.pdf)]<br>  | 
+| **5**     | Insruction Sets / MIPS ISA                       | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **6**     | More IPS ISA                                     | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **7**     | Computer Arithmetic                              | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] |  
+| **8**     | Single-Cycle CPU                                 | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **9**     | Pipelined Processor Design                       | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **10**    | Hazard Detection, Forwarding, Branch Delay Slots | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **11**    | Cache Performance                                | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **12**    | Cache Mapping Schemes                            | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **13**    | **Midterm**                                      | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **14**    | Cache and Main Memory Organization               | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **15**    | Virtual Memory                                   | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **16**    | Virtual Memory (cont.) / TLB's                   | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **17**    | Exceptions & Out-of-Order Execution              | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **18**    | Tomasulo Algorithm & Branch Prediction           | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **19**    | Speculative Execution & Thread Level Parallelism | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_CourseOverview.pdf)] | 
+| **20**    | Final                                            |                                                                                 |
 
+
+Unit 0 - Course Overview
+Unit 1 - Digital Design Review Unit 1 - Digital Design Review item options
+Hide Details
+Unit 1 - Digital Design Completed Slides Unit 1 - Digital Design Completed Slides item options
+Hide Details
+Verilog Review Verilog Review item options
+Hide Details
+Unit 2 - Performance Notes Unit 2 - Performance Notes item options
+Hide Details
+Unit 3 - Instruction Sets Notes Unit 3 - Instruction Sets Notes item options
+Hide Details
+Unit 3 - Instruction Sets Unit 3 - Instruction Sets item options
+Hide Details
+Unit 4a - Fixed Point Arithmetic and ALUs Notes Unit 4a - Fixed Point Arithmetic and ALUs Notes item options
+Hide Details
+Unit 4a - Fixed Point Arithmetic and ALUs Unit 4a - Fixed Point Arithmetic and ALUs item options
+Hide Details
+Unit 4b - Fast Adder Notes Unit 4b - Fast Adder Notes item options
+Hide Details
+Unit 4b - Fast Adders Unit 4b - Fast Adders item options
+Hide Details
+Unit 5 - Single Cycle CPU Notes Unit 5 - Single Cycle CPU Notes item options
+Hide Details
+Unit 5 - Single Cycle CPU Unit 5 - Single Cycle CPU item options
+Hide Details
+Unit 6a - Pipelining Notes Unit 6a - Pipelining Notes item options
+Hide Details
+Unit 6a - Pipelining Unit 6a - Pipelining item options
+Hide Details
+Unit 6b - Data Hazards Notes Unit 6b - Data Hazards Notes item options
+Hide Details
+Unit 6b - Data Hazards Unit 6b - Data Hazards item options
+Hide Details
+Unit 6b - Control Hazards Notes Unit 6b - Control Hazards Notes item options
+Hide Details
+Unit 6b - Control Hazards Unit 6b - Control Hazards item options
+Hide Details
+Unit7a - Cache Notes Unit7a - Cache Notes item options
+Hide Details
+Unit7a - Cache Unit7a - Cache item options
+Hide Details
+Unit7b - Interleaving Notes Unit7b - Interleaving Notes item options
+Hide Details
+Unit7b - Interleaving Unit7b - Interleaving item options
+Hide Details
+Unit7c - Virtual Memory Notes Unit7c - Virtual Memory Notes item options
+Hide Details
+Unit7c - Virtual Memory Unit7c - Virtual Memory item options
+Hide Details
+Unit8 - Exceptions Notes Unit8 - Exceptions Notes item options
+Hide Details
+Unit8 - Exceptions Unit8 - Exceptions item options
+Hide Details
+Unit9a - Out-of-Order Execution Notes Unit9a - Out-of-Order Execution Notes item options
+Hide Details
+Unit9a - Out-of-Order Execution Unit9a - Out-of-Order Execution item options
+Hide Details
+Unit9b - In-Order Commit & Speculation Notes Unit9b - In-Order Commit & Speculation Notes item options
+Hide Details
+Unit9b - In-Order Commit & Speculation Unit9b - In-Order Commit & Speculation item options
+Hide Details
+Unit9c - CMP & CMT Notes Unit9c - CMP & CMT Notes item options
+Hide Details
+Unit9c - CMP & CMT Unit9c - CMP & CMT item options
+Hide Details
+Unit10 - Cache Coherency Protocol Notes Unit10 - Cache Coherency Protocol Notes item options
+Hide Details
+Unit10 - Cache Coherency Protocols Unit10 - Cache Coherency Protocols item options
+Hide Details
