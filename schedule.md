@@ -11,13 +11,9 @@ nav: lectures
 |  Lec      |                                          Topic                                                             |    Slides   | 
 | :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | 
 | **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>[[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>[[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
-
 | **2**     | Constrol Unit Design                             | Previous Slide Unit | 
-
 | **3**     | Verilog Review                                   | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/VerilogDiscussion.pdf)]        | 
-
 | **4**     | Performance Metrics / Fixed Point Arithmetic     | [[Performance Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2_Performance_Notes.pdf)]<br>[[Performance Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2_Performance.pdf)]<br>                                                                 [[Performance Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4a_FixedPoint_Notes.pdf)]<br>                                                                 [[Performance Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4a_FixedPoint.pdf)] | 
-
 | **5**     | Insruction Sets / MIPS ISA                       | [[ISA Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA_Notes.pdf)]<br>[[ISA Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA.pdf)] | 
 | **6**     | More IPS ISA                                     | Previous Slide Unit | 
 | **7**     | Computer Arithmetic                              | [[Adders Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4b_FastAdders_Notes.pdf)]<br>[[Adders Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4b_FastAdders.pdf)]<br>[[Multipliers Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4c_FastMultipliers_Notes.pdf)]<br>[[Multipliers Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4c_FastMultipliers.pdf) |  
