@@ -4,7 +4,7 @@ title: Lectures
 nav: lectures
 ---
 
-##Lectures
+##Lectures 
 
 ###Lecture Schedule
 
