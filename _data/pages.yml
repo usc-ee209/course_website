@@ -3,7 +3,7 @@ people: 'People'
 assignments:
   label: 'Assignments'
   link: 'assignments'
-schedule:
+schedule: 'Schedule'
 piazza:
   label: 'Piazza Q&A Board'
   link: 'https://piazza.com/class/i9pwna063rh73z'

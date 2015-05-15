@@ -1,35 +1,14 @@
 ---
 layout: default
-title: Data Structures and Object Oriented Design
+title: Computer Systems Organization
 nav: index
 ---
 
-## USC CS Markdown Webpage Template
+## USC EE457 Summer 2015 (Early Session) Webpage. 
 
 Welcome! 
 
-This is a website built with [Jekyll](http://jekyllrb.com/), which compiles Markdown-written documents into webpages, like what you're seeing right now. It's designed to be robus and flexible, allowing the teaching staff to easily create and maintain a website with minimal setup.
+This course covers computer organization and design. It provides CS/CE/EE students a substantial understanding of a CPU at its logic design level. Design of the control unit and the data path unit of a simple multi-clock-cycle CPU and a pipelined CPU is covered in detail. Hardware support for exceptions, dynamic scheduling of instructions (Tomasulo algorithm to execute instructions in an out-of-order fashion), and branch prediction are also discussed. Computer arithmetic and memory hierarchies (cache, main memory, virtual memory) are also covered. Hardware-software interface is discussed. Students design in Verilog and use ModelSim simulator to verify their design/simulation exercises.
 
-In addition to [standard Markdown syntax](https://help.github.com/articles/github-flavored-markdown/), Syntax Highlighting and MathJax is also supported!
-
-```cpp
-using namespace std;
-int main() {
-	std::cout << "Hello there" << std::endl;
-	return 0;
-}
-```
-
-```java
-public class Whoa {
-	public static int main(String[] args) {
-		System.out.println("This is awesomeeeee");
-		return 0;
-	}
-}
-```
-
-Inline \\( sin(x^2) \\), or standalone MathJax:
-
-$$ sin(x^2) $$
+At the end of the course, students are expected to feel confident to perform logic design of a CPU or any hardware system utilizing pipelining and other RTL techniques and proceed to graduate courses in computer architecture or general hardware design.
 
