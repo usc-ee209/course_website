@@ -21,7 +21,7 @@ Each student will receive a private code repository on the course's [GitHub Orga
 | [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Computer Arithmetic        | Tues. June 18, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw4_sol.pdf) |
 | [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Tues. June 25, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw5_sol.pdf) |
 | [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 9, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw6_sol.pdf) |
-| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
+| [**HW07**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
 
 ###Labs
 
@@ -31,6 +31,6 @@ Before you start your labs you should choose your appopriate [Modelsim setup opt
 | :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  |
 | [**Lab 1**]({{ site.url }}/assignments/lab1.html)  | FIFO Design      | Fri. June 5, 2015 in class   |
 | [**Lab 2**]({{ site.url }}/assignments/lab2.html)  | Min/Max Finder      | Fri. June 19, 2015 in class   |
-| [**Lab 3a**]({{ site.url }}/assignments/lab3a.html)  | Pipelined Processor 1      | Fri. June 26, 2015 in class   |
-| [**Lab 3b**]({{ site.url }}/assignments/lab3b.html)  | Pipelined Processor 2      | Fri. July 10, 2015 in class   |
+| [**Lab 3a**]({{ site.url }}/assignments/lab3.html)  | Pipelined Processor 1      | Fri. June 26, 2015 in class   |
+| [**Lab 3b**]({{ site.url }}/assignments/lab3.html)  | Pipelined Processor 2      | Fri. July 10, 2015 in class   |
 | [**Lab 4**]({{ site.url }}/assignments/lab4.html)  | FIFO/ROB Design      | Fri. July 24, 2015 in class   |
