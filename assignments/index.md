@@ -13,15 +13,15 @@ Each student will receive a private code repository on the course's [GitHub Orga
 
 ###HW Schedule
 
-|                      HW                                      |           Topic            |                Due Date                  |
-| :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  |
-| [**HW01**](http://ee.usc.edu/~redekopp/ee457/ee457_hw1.pdf)  | Digital Design Review      | Tues. June 2, 2015 in class   |
-| [**HW02**](http://ee.usc.edu/~redekopp/ee457/ee457_hw2.pdf)  | Performance Metrics      | Tues. June 9, 2015 in class   |
-| [**HW03**](http://ee.usc.edu/~redekopp/ee457/ee457_hw3.pdf)  | Instruction Sets       | Tues. June 16, 2015 in class   |
-| [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Computer Arithmetic        | Tues. June 18, 2015 in class   |
-| [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Tues. June 25, 2015 in class   |
-| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 9, 2015 in class   |
-| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |
+|                      HW                                      |           Topic            |                Due Date                  | Solution |
+| :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  | :----: |
+| [**HW01**](http://ee.usc.edu/~redekopp/ee457/ee457_hw1.pdf)  | Digital Design Review      | Tues. June 2, 2015 in class   | [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw1_sol.pdf) |
+| [**HW02**](http://ee.usc.edu/~redekopp/ee457/ee457_hw2.pdf)  | Performance Metrics      | Tues. June 9, 2015 in class   | [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw2_sol.pdf) |
+| [**HW03**](http://ee.usc.edu/~redekopp/ee457/ee457_hw3.pdf)  | Instruction Sets       | Tues. June 16, 2015 in class   | [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw3_sol.pdf) |
+| [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Computer Arithmetic        | Tues. June 18, 2015 in class   |  [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4_sol.pdf) |
+| [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Tues. June 25, 2015 in class   |  [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5_sol.pdf) |
+| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 9, 2015 in class   |  [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6_sol.pdf) |
+| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |  [**Link**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
 
 ###Lab Schedule
 
