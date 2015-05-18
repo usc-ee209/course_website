@@ -1,5 +1,9 @@
 index: 'Home'
 people: 'People'
+syllabus: 
+  label: 'Syllabus'
+  link: 'http://ee.usc.edu/~redekopp/ee457/Syllabus_su15a.pdf'
+  external: true
 assignments:
   label: 'Assignments'
   link: 'assignments'
