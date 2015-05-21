@@ -10,7 +10,7 @@ For special questions, you can contact your instructor. However, we encourage y
 
 |  Name         |           | Email        | Office Hours      | Location   |
 |:-------------:|:---------:|:------------:|:-----------------:|:----------:|
-| Mark Redekopp | <img class="alignnone size-full wp-image-279" src="http://cs103.usc.edu/wordpress/wp-content/uploads/sites/13/2014/08/ark.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | T/Th: 10-12       | EEB-222    |
+| Mark Redekopp | <img class="alignnone size-full wp-image-279" src="http://cs103.usc.edu/wordpress/wp-content/uploads/sites/13/2014/08/ark.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | T/Th: 10:30-12:30       | EEB-222    |
 
 ###TA
 |  Name           |           | Email        | Office Hours      | Location   |
