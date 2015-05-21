@@ -4,12 +4,10 @@ title: Discussion
 nav: disc
 ---
 
-##Overview
+##Discussion
 Discussion will be used to introduce lab and review important concepts from lecture.  Be sure to attend.
 
-###Discussion Schedule
-
-####Discussion 1 - Modelsim & Tool Setup / Verilog Review
+###Discussion 1 - Modelsim & Tool Setup / Verilog Review
 - ModelSim Installation -- See EE 457 DEN site
     - Follow the instructions on the EE 457 DEN site under the *Lab Setup* module. You will need the username/password credentials on that site to download Modelsim.
     - If you do not have access to a PC, you should consider one of the options below:
