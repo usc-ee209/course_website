@@ -8,6 +8,7 @@ assignments:
   label: 'Assignments'
   link: 'assignments'
 schedule: 'Schedule'
+disc: 'Discussion'
 piazza:
   label: 'Piazza Q&A Board'
   link: 'https://piazza.com/class/i9pwna063rh73z'
