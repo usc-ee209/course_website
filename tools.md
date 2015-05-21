@@ -8,15 +8,16 @@ nav: tools
 
 The main software tool we will use for labs and homeworks in this class is Mentor Graphics Modelsim, an HDL simulator.
  
-#### Install Modelsim SE and 5 other tools 
-Follow these [instructions](http://www-classes.usc.edu/engr/ee-s/457/ee457_tools/EE457_README_first.pdf)
+#### Install Modelsim SE and 
+If you have Modelsim (SE/DE) installed on your PC and is working fine already, you do not have to install the Modelsim SE again. It does not matter for our course what modelsim tool version you are running. 
 
-If you have Modelsim (SE/DE) installed on your PC and is working fine already, you do not have to install the Modelsim SE again. It does not matter for our course what modelsim tool version you are running.
+If you need to install Modelsim on your own PC follow the instructions for [installing ModelSim 10.4a]( {{site.url}}/docs/ModelSim_SE_10_2_Installation_by_USC_students.pdf) (the document references 10.2, but please change all such references to 10.4a).
 
-Important:  To access Modelsim installation files, the linked document below says you should use your USC username and 10-digit ID.  That is no longer necessary.  Simply use the following username and student ID:
+** EXTREMELY IMPORTANT **
 
-username:   ttrojan 
-student ID: 1010101010
+To download Modelsim you will need a specific username and password (NOT your USC ID/password).  Please log-in to the EE 457 DEN course and go to the Lab Setup module to find those credentials.
+
+#### Install 5 other tools 
 
 Also install 5 other minor tools described in these [instructions](http://www-classes.usc.edu/engr/ee-s/457/ee457_tools/EE457_README_first.pdf)
 
