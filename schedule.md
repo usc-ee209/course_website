@@ -12,7 +12,7 @@ nav: lectures
 | :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | 
 | **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>[[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>[[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
 | **2**     | Control Unit Design                             | Previous Slide Unit | 
-| **3**     | More Digital Design and Verilog Review          | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/VerilogDiscussion.pdf)]        | 
+| **3**     | More Digital Design and Verilog Review          | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1b_VerilogDiscussion.pdf)]        | 
 | **4**     | Fixed Point Arithmetic and Fast Adders    | [[Fixed Point Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2a_FixedPoint_Notes.pdf)]<br> [[Fixed Point Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2a_FixedPoint.pdf)]<br>[[Adders Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2b_FastAdders_Notes.pdf)]<br>[[Adders Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2b_FastAdders.pdf)]<br> | 
 | **5**     | Insruction Sets / MIPS ISA                       | [[ISA Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA_Notes.pdf)]<br>[[ISA Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA.pdf)] | 
 | **6**     | More IPS ISA                                     | Previous Slide Unit | 
