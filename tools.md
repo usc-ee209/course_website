@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Tool Setup
+title: Tools and Links
 nav: tools
 ---
+
+### Remedial Digital Design and Verilog Lectures
+Links to Prof. Puvvada's [review and Verilog lectures]({{ site.url }}/remedial.html)
 
 ### Modelsim Setup
 

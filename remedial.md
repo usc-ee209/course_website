@@ -43,22 +43,29 @@ Six lectures (together with slides) were posted at the link below to introduce t
 Individual links
 
 [1_Verilog_Introduction_mht.jnt](http://ee-classes.usc.edu/ee201/Verilog/1_Verilog_Introduction_mht.jnt)
+
 [1_Verilog_Introduction.avi  (1 H 08 Minutes)](http://ee-classes.usc.edu/ee201/Verilog/1_Verilog_Introduction.avi)
 
 [2_module_DataTypes_in_Verilog.jnt](http://ee-classes.usc.edu/ee201/Verilog/2_module_DataTypes_in_Verilog.jnt)
+
 [2_module_DataTypes_in_Verilog.avi (23 minutes)](http://ee-classes.usc.edu/ee201/Verilog/2_module_DataTypes_in_Verilog.avi)
 
 [3_behavioral_vs_structural_Verilog.jnt](http://ee-classes.usc.edu/ee201/Verilog/3_behavioral_vs_structural_Verilog.jnt)
+
 [3_behavioral_vs_structural_Verilog.avi  (17 minutes)](http://ee-classes.usc.edu/ee201/Verilog/3_behavioral_vs_structural_Verilog.avi)
 
 [4_Sequential_Statements_in_Verilog.jnt](http://ee-classes.usc.edu/ee201/Verilog/4_Sequential_Statements_in_Verilog.jnt)
+
 [4_Sequential_Statements_in_Verilog.avi  (1 Hour)](http://ee-classes.usc.edu/ee201/Verilog/4_Sequential_Statements_in_Verilog.avi)
 
 [5_blocking_non_blocking.pdf](http://ee-classes.usc.edu/ee201/Verilog/5_blocking_non_blocking.pdf)
+
 [5_blocking_non_blocking.avi (56 minutes)](http://ee-classes.usc.edu/ee201/Verilog/5_blocking_non_blocking.avi)
 
 [6_RTL_coding_style.jnt ](http://ee-classes.usc.edu/ee201/Verilog/6_RTL_coding_style.jnt)
+
 [6_RTL_coding_style.avi  (33 minutes)](http://ee-classes.usc.edu/ee201/Verilog/6_RTL_coding_style.avi)
   
 [EE201L_RTL_coding_style_verilog.pdf](http://ee-classes.usc.edu/ee201/Verilog/EE201L_RTL_coding_style_verilog.pdf)
+
 [ee201_divider_simple.zip](http://ee-classes.usc.edu/ee201/Verilog/ee201_divider_simple.zip)
