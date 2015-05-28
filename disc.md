@@ -23,3 +23,25 @@ Discussion will be used to introduce lab and review important concepts from lect
         - [middle_find_wave.do](http://ee.usc.edu/~redekopp/ee457/middle_finder.do)
        
 - [Verilog Review](http://ee.usc.edu/%7Eredekopp/ee457/slides/EE457Unit1b_VerilogDiscussion.pdf)
+
+###Discussion 2 - Lab 1 (Min/Max Finder)
+
+Read the [lab 1 handout](http://ee.usc.edu/~redekopp/ee457/ee457_min_max_finder_lab.pdf)
+
+**In teams of 2:**
+- Complete all 6 state diagrams
+- Complete the Verilog implementation and testing for only Part 1, Part 3 Method 1, Part 3 and Method 3
+
+**Individually**
+- Answer Questions 1 and 2 ( *answers should be unique for every individual...don't work in groups* )
+
+
+The skeleton implementation files are located here:
+
+- [Part 1](http://ee.usc.edu/~redekopp/ee457/min_max_finder_part1.zip) 
+- [Part 3 M1](http://ee.usc.edu/~redekopp/ee457/min_max_finder_part3_M1.zip) 
+- [Part 3 M3](http://ee.usc.edu/~redekopp/ee457/min_max_finder_part3_M3.zip) 
+
+If you are working on your Unix account you can extract the files and then FTP them to your aludra account via  FileZilla or other SFTP tool available from USC.
+
+**We will post submission instructions shortly...check back here soon**
