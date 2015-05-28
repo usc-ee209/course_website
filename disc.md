@@ -26,6 +26,8 @@ Discussion will be used to introduce lab and review important concepts from lect
 
 ###Discussion 2 - Lab 1 (Min/Max Finder)
 
+**Due Fri. 6/5 at 11:59 PM (PST)**
+ 
 Read the [lab 1 handout](http://ee.usc.edu/~redekopp/ee457/ee457_min_max_finder_lab.pdf)
 
 **In teams of 2:**
