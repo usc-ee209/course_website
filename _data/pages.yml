@@ -8,7 +8,7 @@ assignments:
   label: 'Assignments'
   link: 'assignments'
 schedule: 'Schedule'
-disc: 'Discussion'
+disc: 'Discussion/Labs'
 tools: 'Tools & Links'
 piazza:
   label: 'Piazza Q&A Board'
