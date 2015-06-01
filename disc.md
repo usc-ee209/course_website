@@ -26,4 +26,4 @@ Discussion will be used to introduce lab and review important concepts from lect
 
 ###Discussion 2 - Lab 1 (Min/Max Finder)
 
-[See Lab 1 page]( {{ site.url }}/labs/lab1.html)
+[See Lab 1 page]( {{ site.url }}/assignments/lab1.html)

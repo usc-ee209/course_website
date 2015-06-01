@@ -36,7 +36,7 @@ Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar) but zip.  Y
 - output_results_part3_M3.txt
 - names.txt  (should contain the name of you and your lab partner).
 
-Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l) in the Lab 1 dropbox.
+Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the Lab 1 dropbox.
 
 
 
