@@ -35,8 +35,7 @@ Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar) but zip.  Y
 - min_max_finder_part3_M3.v 
 - output_results_part3_M3.txt
 - names.txt  (should contain the name of you and your lab partner).
+- answers.txt or answers.pdf (but NO answers.jpg or other pictures...should contain the answers/state diagrams for the individual questions)
 
-Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 1 dropbox** under the **Lab Submission Folder/Section**.
-
-
+Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 1 dropbox** under the **Lab Submission Folder/Section**.  For hard copy forms, I would please submit a file named `answers.txt` or `answers.pdf` in your .zip file containing the diagrams and answers.
 
