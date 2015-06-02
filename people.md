@@ -15,7 +15,7 @@ For special questions, you can contact your instructor. However, we encourage y
 ###TA
 |  Name           |           | Email        | Office Hours      | Location   |
 |:---------------:|:---------:|:------------:|:-----------------:|:----------:|
-| Pezhman Mamdouh | <img src="http://bits.usc.edu/ee109/wp-content/uploads/sites/13/2015/01/Pezhman-150x150.jpg" alt="Pezhman" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | mamdouh@     | T: 2 p.m-3:30<br> W: 10-11:30<br> Th: 6:15-7:45pm               | TBA        |
+| Pezhman Mamdouh | <img src="http://bits.usc.edu/ee109/wp-content/uploads/sites/13/2015/01/Pezhman-150x150.jpg" alt="Pezhman" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | mamdouh@     | T: 2 p.m-3:30<br> W: 10-11:30<br> Th: 6:30-8pm               | PHE 330    |
 
 
 ###Grader
