@@ -27,3 +27,7 @@ Discussion will be used to introduce lab and review important concepts from lect
 ###Discussion 2 - Lab 1 (Min/Max Finder)
 
 [See Lab 1 page]( {{ site.url }}/assignments/lab1.html)
+
+###Discussion 3 - Lab 2 (FIFO Lab)
+
+[See Lab 2 page]( {{ site.url }}/assignments/lab2.html)
