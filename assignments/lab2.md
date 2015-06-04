@@ -14,7 +14,7 @@ Read the [lab 2 handout](http://ee.usc.edu/~redekopp/ee457/ee457_fifo.pdf)
 ### Procedure
 **Individually, NO TEAMS**
 
-- Download the [skeleton files, testbench, and .do file](http://ee.usc.edu/~redekopp/ee457/ee457_fifo.zip)
+- Download the [skeleton file and testbench file](http://ee.usc.edu/~redekopp/ee457/ee457_fifo.zip)
    + `ee457_fifo.v` contains a skeleton of the FIFO design. Do not modify the port interfaces but feel free to add additional internal signal declarations and your behavioral/RTL description.
    + `ee457_fifo_tb.v` contains a complete testbench to test **SOME** cases but is definitely **NOT** a definitive test that ensures your FIFO has 0 bugs.
 
