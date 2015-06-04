@@ -23,7 +23,7 @@ Read the [lab 2 handout](http://ee.usc.edu/~redekopp/ee457/ee457_fifo.pdf)
 
 ### Submission
 
-Submit your two fifo implementations and testbench(es) (if you made additional testbenches, please include them) as a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab1.zip` and contain:
+Submit your two fifo implementations and testbench(es) (if you made additional testbenches, please include them) as a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab2.zip` and contain:
 
 - ee457_fifo.v
 - ee457_fifo_p2.v
