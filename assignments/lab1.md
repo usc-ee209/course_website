@@ -8,7 +8,11 @@ nav: assignments
 
 **Due Fri. 6/5 at 11:59 PM (PST)**
  
+### Handout 
+ 
 Read the [lab 1 handout](http://ee.usc.edu/~redekopp/ee457/ee457_min_max_finder_lab.pdf)
+
+### Procedure
 
 **In teams of 2:**
 - Complete all 6 state diagrams
@@ -26,7 +30,9 @@ The skeleton implementation files are located here:
 
 If you are working on your Unix account you can extract the files and then FTP them to your aludra account via  FileZilla or other SFTP tool available from USC.
 
-Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar) but zip.  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab1.zip` and contain:
+### Submission
+
+Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab1.zip` and contain:
 
 - min_max_finder_part1.v 
 - output_results_part1.txt 
