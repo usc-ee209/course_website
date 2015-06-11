@@ -8,7 +8,11 @@ nav: assignments
 
 **Due Fri. 6/5 at 11:59 PM (PST)**
  
+### Handout 
+ 
 Read the [lab 1 handout](http://ee.usc.edu/~redekopp/ee457/ee457_min_max_finder_lab.pdf)
+
+### Procedure
 
 **In teams of 2:**
 - Complete all 6 state diagrams
@@ -26,7 +30,9 @@ The skeleton implementation files are located here:
 
 If you are working on your Unix account you can extract the files and then FTP them to your aludra account via  FileZilla or other SFTP tool available from USC.
 
-Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar) but zip.  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab1.zip` and contain:
+### Submission
+
+Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab1.zip` and contain:
 
 - min_max_finder_part1.v 
 - output_results_part1.txt 
@@ -35,8 +41,7 @@ Submit your code as a SINGLE .ZIP file (not .bz2, not .gz, not .tar) but zip.  Y
 - min_max_finder_part3_M3.v 
 - output_results_part3_M3.txt
 - names.txt  (should contain the name of you and your lab partner).
+- answers.txt or answers.pdf (but NO answers.jpg or other pictures...should contain the answers/state diagrams for the individual questions)
 
-Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l) in the Lab 1 dropbox.
-
-
+Each individual should submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 1 dropbox** under the **Lab Submission Folder/Section**.  For hard copy forms, I would please submit a file named `answers.txt` or `answers.pdf` in your .zip file containing the diagrams and answers.
 

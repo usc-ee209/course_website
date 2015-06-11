@@ -17,8 +17,8 @@ For detailed information on late submission policies, grace periods, and similar
 | [**HW01**](http://ee.usc.edu/~redekopp/ee457/ee457_hw1.pdf)  | Digital Design Review      | Tues. June 2, 2015 in class   | [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw1_sol.pdf) |
 | [**HW02**](http://ee.usc.edu/~redekopp/ee457/ee457_hw2.pdf)  | Computer Arithmetic      | Tues. June 9, 2015 in class   | [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw2_sol.pdf) |
 | [**HW03**](http://ee.usc.edu/~redekopp/ee457/ee457_hw3.pdf)  | Instruction Sets       | Tues. June 16, 2015 in class   | [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw3_sol.pdf) |
-| [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Performance Metrics        | Tues. June 18, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw4_sol.pdf) |
-| [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Tues. June 25, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw5_sol.pdf) |
+| [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Performance Metrics        | Tues. June 23, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw4_sol.pdf) |
+| [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Thurs. June 25, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw5_sol.pdf) |
 | [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 9, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw6_sol.pdf) |
 | [**HW07**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
 
@@ -29,7 +29,7 @@ Before you start your labs you should choose your appopriate [Modelsim setup opt
 |                      Lab                                      |           Topic            |                Due Date                  |
 | :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  |
 | [**Lab 1**]({{ site.url }}/assignments/lab1.html)  | Min/Max Finder      | Fri. June 5, 2015 in class   |
-| **Lab 2**  | FIFO Lab     | Fri. June 19, 2015 in class   |
+| [**Lab 2**]({{ site.url }}/assignments/lab2.html)  | FIFO Lab     | Fri. June 12, 2015 in class   |
 | **Lab 3a**  | Pipelined Processor 1      | Fri. June 26, 2015 in class   |
 | **Lab 3b**  | Pipelined Processor 2      | Fri. July 10, 2015 in class   |
 | **Lab 4**  | FIFO/ROB Design      | Fri. July 24, 2015 in class   |
