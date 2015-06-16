@@ -17,6 +17,8 @@ Read the [lab 3 handout](http://ee.usc.edu/~redekopp/ee457/ee457_lab3_5stage.pdf
 
 - Download the [skeleton file and testbench file](http://ee.usc.edu/~redekopp/ee457/ee457_scpu.zip) which contains a nearly complete single-cycle CPU that you will pipeline.  Follow the instructions in the handout for each part.  **Be sure you do the Part 0 work which is necessary for part 1 to work.**
 
+- To hand assemble your code and convert to hex we provide a helpful [Excel spreadsheet](http://ee.usc.edu/~redekopp/ee457/ee457_lab3_instruc_ss.xlsx).  You may use it if you desire.  
+
 ### Submission
 
 #### Part 1
