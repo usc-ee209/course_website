@@ -7,7 +7,7 @@ nav: assignments
 ## Lab 3
 
 **Part 1 Due Sun. 7/5 (electronic submission) at 11:59 PM (PST)**
-**Part 2 Due Fri. 7/18 (electronic submission) at 11:59 PM (PST)**
+**Part 2 Due Fri. 7/17 (electronic submission) at 11:59 PM (PST)**
 
 ### Handout 
 Read the [lab 3 handout](http://ee.usc.edu/~redekopp/ee457/ee457_lab3_5stage.pdf)

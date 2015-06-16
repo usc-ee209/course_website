@@ -28,8 +28,7 @@ Before you start your labs you should choose your appopriate [Modelsim setup opt
 
 |                      Lab                                      |           Topic            |                Due Date                  |
 | :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  |
-| [**Lab 1**]({{ site.url }}/assignments/lab1.html)  | Min/Max Finder      | Fri. June 5, 2015 in class   |
-| [**Lab 2**]({{ site.url }}/assignments/lab2.html)  | FIFO Lab     | Fri. June 12, 2015 in class   |
-| **Lab 3a**  | Pipelined Processor 1      | Fri. June 26, 2015 in class   |
-| **Lab 3b**  | Pipelined Processor 2      | Fri. July 10, 2015 in class   |
-| **Lab 4**  | FIFO/ROB Design      | Fri. July 24, 2015 in class   |
+| [**Lab 1**]({{ site.url }}/assignments/lab1.html)  | Min/Max Finder      | Fri. June 5, 2015 at 11:59PM (PST)   |
+| [**Lab 2**]({{ site.url }}/assignments/lab2.html)  | FIFO Lab     | Fri. June 12, 2015 at 11:59PM (PST)   |
+| [**Lab 3**]({{ site.url }}/assignments/lab3.html)  | Pipelined Processor (2 Parts)      | Part 1 Due Sun. July 5, 2015, Part 2 Due Fri. July 17 at 11:59PM (PST)   |
+| **Lab 4**  | FIFO/ROB Design      | Fri. July 24, 2015 at 11:59PM (PST)   |
