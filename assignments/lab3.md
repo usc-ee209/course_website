@@ -4,58 +4,28 @@ title: Lab3
 nav: assignments
 ---
 
-##Lab 3
+## Lab 3
 
-Please do all parts of this lab
+**Part 1 Due Sun. 7/5 (electronic submission) at 11:59 PM (PST)**
+**Part 2 Due Fri. 7/18 (electronic submission) at 11:59 PM (PST)**
 
-Part 1 Due Sat. 7/5 (electronic submission) before midnight
-Part 2  (electronic submission)
+### Handout 
+Read the [lab 3 handout](http://ee.usc.edu/~redekopp/ee457/ee457_lab3_5stage.pdf)
 
-    Due Sat. 7/19 before midnight [Extra Credit: 20% addition for this lab]
-    Due Tues. 7/22 before midnight [Full credit for the lab]
-    Due Thurs. 7/24 before midnight [Max 70% possible for the lab]
+### Procedure
+**In teams of 2**
 
+- Download the [skeleton file and testbench file](http://ee.usc.edu/~redekopp/ee457/ee457_scpu.zip) which contains a nearly complete single-cycle CPU that you will pipeline.  Follow the instructions in the handout for each part.  **Be sure you do the Part 0 work which is necessary for part 1 to work.**
 
-Submit Commands (replace the ... below with all other .v files for your design):
+### Submission
 
-  Part 1 
+#### Part 1
+For part 1, submit all your files (all Verilog design and testbenches as well as the program and data .txt files) in a a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab3_p1.zip`.
 
-  submit -user ee457lab -tag ee457_lab3_p1 ee457_scpu.v ... names.txt  
+Submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 3 P1 dropbox** under the **Lab Submission Folder/Section**.  
 
- Part 2 
+#### Part 2
+For part 2, submit all your files (all Verilog design and testbenches as well as the program and data .txt files) in a a SINGLE .ZIP file (not .bz2, not .gz, not .tar but zip).  You can do an Internet search to see about how to create a zip file from the command line or with 3rd party tools like 7-Zip.  Your zip file should be named `lab3_p2.zip`.
 
-  submit -user ee457lab -tag ee457_lab3_p2 ee457_scpu.v ... names.txt 
+Submit their .zip file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 3 P2 dropbox** under the **Lab Submission Folder/Section**.  
 
-Single Cycle CPU Verilog Code Single Cycle CPU Verilog Code item options
-Hide Details
-Attached Files: 	
-
-    File Single Cycle.rar (8.184 KB) 
-
-Skeleton Codes Skeleton Codes item options
-Hide Details
-Attached Files: 	
-
-    File ee457_scpu_FOR_STUDENTS.rar (1.741 KB) 
-
-The register file is complete
-The HDU needs to be completed
-The pipeline register needs to be completed
-Instruction Breakdown Excel Instruction Breakdown Excel item options
-Hide Details
-Attached Files: 	
-
-    File Instruction Break down.xlsx (10.641 KB) 
-
- Not required to finish the lab, might help you in debugging
-Summer 2014 Fixes to Lab 3 code Summer 2014 Fixes to Lab 3 code item options
-Hide Details
- Replace your versions of these files with the ones in this zip file.  All of them can be replaced as is, except the ee457_HDU file should only be replaced if you HAVE NOT already modified it.  If you have modified it, just look at what I changed to produce the stall signal as well as IRWRITE and PCWRITE and not flush (since flush should be '1' based on a taken branch).
-
-Changes:
-ee457_alu.v  => Fixed 'SLT' instruction bug
-ee457_scpu_cu.v => Added support for ADDI instruction so you don't have to.
-ee457_regfile_2r1w.v => Internal forwarding now correctly checks if 'wen' is 1
-ee457_HDU.v => Changed I/O ports (removing flush)
-
-Feel free to post any questions on Piazza.
