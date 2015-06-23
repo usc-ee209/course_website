@@ -7,6 +7,11 @@ nav: tools
 ### Remedial Digital Design and Verilog Lectures
 Links to Prof. Puvvada's [review and Verilog lectures]({{ site.url }}/remedial.html)
 
+### Practice Midterm
+
+ - [Sample Midterm, Su '14](http://ee.usc.edu/~redekopp/ee457/Su14EE457MT.pdf)
+ - [Sample Midterm Solutions, Su '14](http://ee.usc.edu/~redekopp/ee457/Su14EE457MTSol.pdf)
+
 ### Modelsim Setup
 
 The main software tool we will use for labs and homeworks in this class is Mentor Graphics Modelsim, an HDL simulator.
