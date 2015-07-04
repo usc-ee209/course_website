@@ -19,8 +19,8 @@ For detailed information on late submission policies, grace periods, and similar
 | [**HW03**](http://ee.usc.edu/~redekopp/ee457/ee457_hw3.pdf)  | Instruction Sets       | Tues. June 16, 2015 in class   | [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw3_sol.pdf) |
 | [**HW04**](http://ee.usc.edu/~redekopp/ee457/ee457_hw4.pdf)  | Performance Metrics        | Tues. June 23, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw4_sol.pdf) |
 | [**HW05**](http://ee.usc.edu/~redekopp/ee457/ee457_hw5.pdf)  | Single Cycle CPU        | Thurs. June 25, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw5_sol.pdf) |
-| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 9, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw6_sol.pdf) |
-| [**HW07**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 16, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
+| [**HW06**](http://ee.usc.edu/~redekopp/ee457/ee457_hw6.pdf)  | Cache Memory        | Tues. July 14, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw6_sol.pdf) |
+| [**HW07**](http://ee.usc.edu/~redekopp/ee457/ee457_hw7.pdf)  | Virtual Memory        | Tues. July 21, 2015 in class   |  [Link](http://ee.usc.edu/~redekopp/ee457/ee457_hw7_sol.pdf) |
 
 ###Labs
 
