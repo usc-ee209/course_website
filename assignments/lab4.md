@@ -6,7 +6,7 @@ nav: assignments
 
 ##Lab 4
 
-** Due Sun. 7/26 (electronic submission) at 11:59 PM (PST)**
+** Due Sat. 7/25 (electronic submission) at 11:59 PM (PST)**
 
 ** Only do the PART 2 - ROB (Out-of-Order Execution) and not the first part (In-order execution).**
 
@@ -22,5 +22,5 @@ Read Part 2 of the [lab 4 handout](http://ee.usc.edu/~redekopp/ee457/IoE_OoE_Div
 
 ### Submission
 
-Only submit your completed `OoE_Divider.v`. Submit your file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 4 dropbox** under the **Lab Submission Folder/Section**.  
+Place the name of you and your partner in the first line of your completed `OoE_Divider.v`.  Submit that file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 4 dropbox** under the **Lab Submission Folder/Section**.  
 
