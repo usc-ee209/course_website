@@ -22,5 +22,5 @@ Read Part 2 of the [lab 4 handout](http://ee.usc.edu/~redekopp/ee457/IoE_OoE_Div
 
 ### Submission
 
-Place the name of you and your partner in the first line of your completed `OoE_Divider.v`.  Submit that file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 4 dropbox** under the **Lab Submission Folder/Section**.  
+Place the name of you and your partner in the first line of your completed `OoE_Divider.v`.  Submit that file on the **[EE 457 DEN Desire2Learn site](https://courses.uscden.net/d2l)** in the **Lab 4 dropbox** under the **Lab Submission Folder/Section** .  
 
