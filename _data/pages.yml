@@ -2,7 +2,7 @@ index: 'Home'
 people: 'People'
 syllabus: 
   label: 'Syllabus'
-  link: 'http://ee.usc.edu/~redekopp/ee457/Syllabus_su15a.pdf'
+  link: 'http://ee.usc.edu/~redekopp/ee209/EE209Syllabus.pdf'
   external: true
 assignments:
   label: 'Assignments'
@@ -12,9 +12,9 @@ disc: 'Discussion/Labs'
 tools: 'Tools & Links'
 piazza:
   label: 'Piazza Q&A Board'
-  link: 'https://piazza.com/class/i9pwna063rh73z'
+  link: 'https://piazza.com/class/icox72m1jxn1t8'
   external: true
-densite:
-  label: 'DEN Site / Grades'
-  link: 'https://courses.uscden.net/d2l/home'
+bbsite:
+  label: 'Blackboard (HW & Grades)'
+  link: 'http://blackboard.usc.edu'
   external: true

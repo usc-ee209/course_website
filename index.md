@@ -1,12 +1,21 @@
 ---
 layout: default
-title: Computer Systems Organization
+title: Foundations of Digital System Design
 nav: index
 ---
 
-##Welcome to EE457 
+##Welcome to EE209 
 
-This course covers computer organization and design. It provides CS/CE/EE students a substantial understanding of a CPU at its logic design level. Design of the control unit and the data path unit of a simple multi-clock-cycle CPU and a pipelined CPU is covered in detail. Hardware support for exceptions, dynamic scheduling of instructions (Tomasulo algorithm to execute instructions in an out-of-order fashion), and branch prediction are also discussed. Computer arithmetic and memory hierarchies (cache, main memory, virtual memory) are also covered. Hardware-software interface is discussed. Students design in Verilog and use ModelSim simulator to verify their design/simulation exercises.
+This course introduces digital system design theory and practice.  Focus is placed on logic design techniques and physical implementation methodologies.  Utilizing the structures and concepts learned in EE 109, students will learn to design and synthesize combinational and sequential logic structures at the gate and transistor level.  Topics include Boolean algebra, common datapath components, state machine synthesis, various implementation technologies with focus on CMOS, and physical layout.  A lab component will familiarize students with common electronic design automation (EDA) software tools (mainly using FPGAs) and allow students to put theory into practice.
 
-At the end of the course, students are expected to feel confident to perform logic design of a CPU or any hardware system utilizing pipelining and other RTL techniques and proceed to graduate courses in computer architecture or general hardware design.
+Upon completion of this course students will be able to:
+1. Identify and derive appropriate logic functions to implement a specified design
+1. Synthesize logic circuits to implement a given logic function
+1. Understand design tradeoffs that include area and speed and optimize circuits for desired performance
+1. Analyze and manipulate logic circuits to ascertain their logic function or alter their implementation based on specific design requirements
+1. Synthesize and analyze circuits that include state elements (flip-flops) [i.e. state machines]
+1. Design datapath and control units for portions of a simple CPU
+1. Understand basic principles of  semiconductor physics and transistor operation
+1. Layout simple logic cells
+1. Understand the relationship of delay and area due to the parasitics inherent in physical implementation.
 
