@@ -4,18 +4,19 @@ title: People/Office Hours
 nav: people
 ---
 
-For special questions, you can contact your instructor. However, we encourage you to use <a href="https://piazza.com/class/i9pwna063rh73z">the course Piazza page</a> so that other students can also benefit from these questions or answer them.
+For special questions, you can contact your instructor. However, we encourage you to use [the course Piazza page]( {site.data.main.piazza} )</a> so that other students can also benefit from these questions or answer them.
 
 ###Instructors
 
 |  Name         |           | Email        | Office Hours      | Location   |
 |:-------------:|:---------:|:------------:|:-----------------:|:----------:|
-| Mark Redekopp | <img class="alignnone size-full wp-image-279" src="http://cs103.usc.edu/wordpress/wp-content/uploads/sites/13/2014/08/ark.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | T/Th: 10:30-12:30       | EEB-222    |
+| Shahin Nazarian | <img class="alignnone size-full wp-image-279" src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | TBA | EEB-340    |
+| Mark Redekopp | <img class="alignnone size-full wp-image-279" src="http://bits.usc.edu/wordpress/wp-content/uploads/sites/13/2014/08/ark.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | M,W: 9-9:50<br>T,Th: 1-1:50<br>T: 3:30-4:30<br>F: 1-2:30       | EEB-222    |
 
 ###TA
 |  Name           |           | Email        | Office Hours      | Location   |
 |:---------------:|:---------:|:------------:|:-----------------:|:----------:|
-| Pezhman Mamdouh | <img src="http://bits.usc.edu/ee109/wp-content/uploads/sites/13/2015/01/Pezhman-150x150.jpg" alt="Pezhman" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | mamdouh@     | T: 2 pm-3:30<br> W: 10-11:30<br> Th: 6:30pm-8               | PHE 330    |
+| Kun Yue | <img src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt="Pezhman" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | kunyue@     | TBA               | TBA    |
 
 
 ###Grader
