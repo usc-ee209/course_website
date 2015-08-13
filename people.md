@@ -4,7 +4,7 @@ title: People/Office Hours
 nav: people
 ---
 
-For special questions, you can contact your instructor. However, we encourage you to use [the course Piazza page]( {site.data.main.piazza} )</a> so that other students can also benefit from these questions or answer them.
+For special questions, you can contact your instructor. However, we encourage you to use [the course Piazza page]( {{site.data.main.piazza}} )</a> so that other students can also benefit from these questions or answer them.
 
 ###Instructors
 
