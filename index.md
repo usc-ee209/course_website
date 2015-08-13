@@ -9,6 +9,7 @@ nav: index
 This course introduces digital system design theory and practice.  Focus is placed on logic design techniques and physical implementation methodologies.  Utilizing the structures and concepts learned in EE 109, students will learn to design and synthesize combinational and sequential logic structures at the gate and transistor level.  Topics include Boolean algebra, common datapath components, state machine synthesis, various implementation technologies with focus on CMOS, and physical layout.  A lab component will familiarize students with common electronic design automation (EDA) software tools (mainly using FPGAs) and allow students to put theory into practice.
 
 Upon completion of this course students will be able to:
+
 1. Identify and derive appropriate logic functions to implement a specified design
 1. Synthesize logic circuits to implement a given logic function
 1. Understand design tradeoffs that include area and speed and optimize circuits for desired performance
