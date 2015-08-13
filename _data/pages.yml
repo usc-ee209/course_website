@@ -4,11 +4,9 @@ syllabus:
   label: 'Syllabus'
   link: 'http://ee.usc.edu/~redekopp/ee209/EE209Syllabus.pdf'
   external: true
-assignments:
-  label: 'Assignments'
-  link: 'assignments'
 schedule: 'Schedule'
-disc: 'Discussion/Labs'
+hw: 'Homework'
+labs: 'Discussion/Labs'
 tools: 'Tools & Links'
 piazza:
   label: 'Piazza Q&A Board'
