@@ -21,7 +21,7 @@ The main software tool we will use for labs and homeworks in this class is Mento
 As an engineering student enrolled in this EE course, we will give you access to the Viterbi Virtual Desktop Interface (VDI) system which allows you to open a remote desktop/virtual machine with all the engineering software preloaded.  You will need to follow [these directions](http://viterbi.usc.edu/assets/195/94372.pdf) to first install the VDI client and connect.  Once connected you can find Xilinx `ISE Design Suite 14.7` icon on the desktop or search for it in the programs menu.  Remember your files only persist in your `Documents` folder and are lost after each semester.
  
 #### Install Modelsim Webpack 
-Follow the directions listed [here](http://ee.usc.edu/~redekopp/ee101/Xilinx13_2Install_2013.pdf)
+Follow the directions listed [here](http://ee.usc.edu/~redekopp/ee209/Xilinx14_7Install_2015.pdf)
 
 
 
