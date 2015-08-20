@@ -19,6 +19,7 @@ As an engineering student enrolled in this EE course, we will give you access to
  
 #### Install Modelsim Webpack on your Windows PC 
 Follow [these directions](http://ee.usc.edu/~redekopp/ee209/Xilinx14_7Install_2015.pdf)
+
   - For those running Windows 8 or 10 you might try this [link](http://www.eevblog.com/forum/microcontrollers/guide-getting-xilinx-ise-to-work-with-windows-8-64-bit/) for tips on getting the installation to work on your OS.
 
 
