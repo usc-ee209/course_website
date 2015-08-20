@@ -42,7 +42,7 @@ nav: lectures
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
 | **29**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)           |  [TBA]  |  
 | **30**    | Review           |  [TBA]  |  
-| Final Project Due during Final Exam Period - (See Schedule of Classes) |
+| |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
 
 
 
