@@ -23,7 +23,7 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 </tr>
 <tr>
     <td>Lab 1</td>
-    <td>1/21</td>
+    <td>8/28</td>
     <td><a href="http://bits.usc.edu/files/ee209/labs/EE209_Lab1.pdf">Sound the Alarm</a></td>
     <td>None</td>
     <td>None</td>

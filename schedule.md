@@ -10,24 +10,45 @@ nav: lectures
 
 |  Lec      |                                          Topic                                                             |    Slides   | 
 | :-------: | :--------------------------------------------------------------------------------------------------------- | ----------- | 
-| **1**     | Course Overview &ndash;<br>Digital Logic Review  | [[Overview](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit0_Intro.pdf)]<br>[[Digital Logic Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview_Notes.pdf)]<br>[[Digital Logic Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1_LogicReview.pdf)] |
-| **2**     | Control Unit Design                             | Previous Slide Unit | 
-| **3**     | More Digital Design and Verilog Review          | [[PDF](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit1b_VerilogDiscussion.pdf)]        | 
-| **4**     | Fixed Point Arithmetic and Fast Adders    | [[Fixed Point Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2a_FixedPoint_Notes.pdf)]<br> [[Fixed Point Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2a_FixedPoint.pdf)]<br>[[Adders Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2b_FastAdders_Notes.pdf)]<br>[[Adders Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2b_FastAdders.pdf)]<br> | 
-| **5**     | Insruction Sets / MIPS ISA                       | [[ISA Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA_Notes.pdf)]<br>[[ISA Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit3_ISA.pdf)] | 
-| **6**     | More MIPS ISA                                     | Previous Slide Unit | 
-| **7**     | Performance Metrics & Single Cycle CPU           |  [[Performance Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4_Performance_Notes.pdf)]<br>[[Performance Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit4_Performance.pdf)]<br>[[Single Cycle Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit5_SingleCycleCPU_Notes.pdf)]<br>[[Single Cycle Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit5_SingleCycleCPU.pdf)] |  
-| **8**     | Single-Cycle CPU & Pipelined Processor Design    | [[Pipelining Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6a_Pipelining_Notes.pdf)]<br>[[Pipelining Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6a_Pipelining.pdf)] |
-| **9**     | Data Hazards                       | [[Data Hazards Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6b_DataHazards_Notes.pdf)]<br>[[Data Hazards Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6b_DataHazards.pdf)] |
-| **10**    | Control Hazards and Branch Delay Slots | [[Control Hazards Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6c_ControlHazards_Notes.pdf)]<br>[[Control Hazards Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit6c_ControlHazards.pdf)] |  
-| **11**    | Cache Performance                                | [[Cache Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7a_Cache_Notes.pdf)]<br>[[Cache Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7a_Cache.pdf)] |
-| **12**    | Cache Mapping Schemes                            | Previous Slide Unit | 
-| **13**    | **Midterm**                                      | |
-| **14**    | Main Memory Organization & Virtual Memory              | [[Memory Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7b_Interleaving_Notes.pdf)]<br>[[Memory Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7b_Interleaving.pdf)]<br>[[VM Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7c_VirtualMem_Notes.pdf)]<br>[[VM Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit7c_VirtualMem.pdf)] |
-| **15**    | Virtual Memory (cont.)                                  |  |
-| **16**    | Exceptions & Out-of-Order Execution          | [[Exceptions Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit8_Exceptions_Notes.pdf)]<br>[[Exceptions Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit8_Exceptions.pdf)]<br>[[OoO Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9a_OoO_Notes.pdf)]<br>[[OoO Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9a_OoO.pdf) | 
-| **17**    | Out-of-Order Execution (cont.), Speculative Execution              | [[Spec. Exec. Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9b_Speculation_Notes.pdf)]<br>[[Spec. Exec. Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9b_Speculation.pdf)] |  
-| **18**    | Speculative Execution (cont.), Thread-level Parallelism (CMT & CMP)           | [[Threading Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9c_CMT_Notes.pdf)]<br>[[Threading Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit9c_CMT.pdf)] |  
-| **19**    | Cache Coherency / Fast Multipliers      | [[Coherence Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit10_Coherence_Notes.pdf)]<br>[[Coherence Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit10_Coherence.pdf)<br>[[Multipliers Notes](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2c_FastMultipliers_Notes.pdf)]<br>[[Multipliers Complete](http://ee.usc.edu/~redekopp/ee457/slides/EE457Unit2c_FastMultipliers.pdf)] |  
-| **20**    | Final                                            |                                                                                 |
+| **1**     | Course Overview <br>(*Vahid Ch. 1*)  | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture1.pdf)] |
+| **2**     | Basic Logic Gates<br>Boolean Algebra<br>Decoders & Muxes<br>(*Vahid: 2.1-2.5, 2.9*)        | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture2.pdf)] | 
+| **3**     | Minterms, Maxterms, Canonical Sums & Products <br>(*Vaid: 2.6-2.8*)   | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture3.pdf)]        | 
+| **4**     | Multivariable Boolean Algebra, DeMorgan's Theorem <br>(*Vahid 2.5*)     | Previous slides (cont.)  | 
+| **5**     | **Holiday - Labor Day**            |  | 
+| **6**     | Design Goals<br>2-Level Implementations<br>Negative/Active-Low logic <br>(*Vahid: 2.8, 2.10-2.11*)  | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture4.pdf)] | 
+| **7**     | Combinational Synthesis - Karnaugh Maps <br>(*Vahid: 6.2*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture5a.pdf)] |  
+| **8**     | Combinational Synthesis - Muxes & Memories <br>(*Vahid: 7.3*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture5b.pdf)] |  
+| **9**     | Arithmetic Circuits and Adder Examples <br>(*Vahid: 4.3, 4.6-4.7*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture6.pdf)] |  
+| **10**    | Bistables & Latches <br>(*Vahid: 3.1-3.2*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture7.pdf)] |  
+| **11**    | Flip Flops <br>(*Vahid: 3.3-3.4*)           |  Previous slides (cont.) |  
+| **12**    | Introduction to State Machines <br> State Machine Analysis <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture8.pdf)] |
+| **Oct. 1st** | Midterm during Quiz section (Oct. 1:  7-9 p.m.) | |
+| **13**    | State Machine Design <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture9.pdf)]   
+| **14**    | Control & Datapath Design           |  Previous slides (cont.)  |  
+| **15**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [TBA]  |  
+| **16**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
+| **17**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
+| **18**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
+| **19**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
+| **20**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
+| **21**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
+| **22**    | CMOS Layout<br>(*Kang, Ch. 2*)           |  [TBA]  |  
+| **23**    | CMOS Layout Project           |  [TBA]  |  
+| **24**    | Wire and Gate Delay Models <br> (*Kang, Ch. 6*) <br> Pass transistors / Transmission Gates <br> (*Kang, Ch. 7.5*)          |  [TBA]  |  
+| **Nov. 12th** | Midterm during Quiz section (Nov. 12:  7-9 p.m.) | |
+| **25**    | SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [TBA]  |  
+| **26**    | System Design <br> HW/SW Partitioning           |  [TBA]  |  
+| **27**    | Processing Architectures<br>Pipelining           |  [TBA]  |  
+| **28**    | **Holiday - Thanksgiving Break**           |    |  
+| **29**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)           |  [TBA]  |  
+| **30**    | Review           |  [TBA]  |  
+| |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
+
+
+
+
+
+
+
+
 
