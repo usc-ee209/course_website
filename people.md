@@ -10,7 +10,7 @@ For special questions, you can contact your instructor. However, we encourage y
 
 |  Name         |           | Email        | Office Hours      | Location   |
 |:-------------:|:---------:|:------------:|:-----------------:|:----------:|
-| Shahin Nazarian | <img class="alignnone size-full wp-image-279" src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt=",ark" width="85" height="90" />   | shahin@    | M,W: 2:30-3:20<br>T,Th: 11-11:50<br>Th: 2-3:30,<br>F: 10:30-11:20 | EEB-340    |
+| Shahin Nazarian | <img class="alignnone size-full wp-image-279" src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt=",ark" width="85" height="90" />   | shahin@    | M,W: 2:30-3:20<br>T,Th: 11-11:50<br>Th: 2-3:30,<br>F: 10:30-11:20 | EEB-340     |
 | Mark Redekopp | <img class="alignnone size-full wp-image-279" src="http://bits.usc.edu/wordpress/wp-content/uploads/sites/13/2014/08/ark.jpg" alt=",ark" width="85" height="90" />   | redekopp@    | M,W: 9-9:50<br>T,Th: 1-1:50<br>T: 3:30-4:30<br>F: 1-2:30       | EEB-222    |
 
 ###TA
