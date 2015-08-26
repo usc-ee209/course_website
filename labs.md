@@ -24,9 +24,11 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 <tr>
     <td>Lab 1</td>
     <td>8/28</td>
-    <td><a href="http://bits.usc.edu/files/ee209/labs/EE209_Lab1.pdf">Sound the Alarm</a></td>
+    <td><a href="http://bits.usc.edu/files/ee209/labs/ee209_lab1.pdf">Sound the Alarm</a></td>
     <td>None</td>
-    <td>None</td>
+    <td><strong><a href="http://ee.usc.edu/~redekopp/Streaming/ee101_trainerboard_tutorial/ee101_trainerboard_tutorial.html">Trainer Board Intro. Video (Watch before Friday)</a><strong><br>
+    <strong><a href="http://ee.usc.edu/~redekopp/Streaming/ee101_lab1_intro/ee101_lab1_intro.html">Lab 1 Intro Video (Watch before Friday)</a><strong><br>
+    <a href="http://ee.usc.edu/~redekopp/~redekopp/ee209/ee209_lab1_board_slides.pdf">Tutorial Board slides (reference)</a></td>
     <td>TBA</td>
 </tr>
 </tbody>
