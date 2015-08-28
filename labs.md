@@ -23,7 +23,7 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <th>Submission</th>
 </tr>
 <tr>
-    <td>Lab 1</td>
+    <td>01</td>
     <td>8/28</td>
     <td>9/4 in discussion</td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab1.pdf">Sound the Alarm</a></td>
@@ -34,11 +34,11 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>Hard copy</td>
 </tr>
 <tr>
-    <td>Lab 2</td>
+    <td>02</td>
     <td>9/4</td>
     <td>9/11 in discussion</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab2.pdf">Xilinx CAD Tools overview</a></td>
-    <td>None</td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab2.zip">Skeleton Project (.zip)</a></td>
     <td>Follow the Xilinx setup instructions and watch the four videos for learning to use the Xilinx schematic entry tool and simulation tools  on <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a>.</td>
     <td>Hard copy / Print-outs</td>
 </tr>
