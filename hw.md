@@ -14,7 +14,7 @@ For detailed information on late submission policies, grace periods, and similar
 
 |                      HW                                      |           Topic            |                Due Date                  | Solution |
 | :----------------------------------------------------------: | :------------------------: | :-------------------------------------:  | :----: |
-| [**HW01**](http://ee.usc.edu/~redekopp/ee209/ee209_hw1.pdf)  | Decoders and Muxes           | TBA on Blackboard   | [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw1_sol.pdf) |
+| [**HW01**](http://ee.usc.edu/~redekopp/ee209/ee209_hw1.pdf)  | Decoders and Muxes           | HW1a due 9/6 @ 11:59 PM (on Blackboard)<br>HW1b due 9/9 in class (paper submission)   | [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw1_sol.pdf) |
 | [**HW02**](http://ee.usc.edu/~redekopp/ee209/ee209_hw2.pdf)  | Implementing Functions       | TBA on Blackboard   | [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw2_sol.pdf) |
 | [**HW03**](http://ee.usc.edu/~redekopp/ee209/ee209_hw3.pdf)  | Logic Function Synthesis     | TBA on Blackboard   | [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw3_sol.pdf) |
 | [**HW04**](http://ee.usc.edu/~redekopp/ee209/ee209_hw4.pdf)  | Adders & Sequential Logic    | TBA on Blackboard   |  [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw4_sol.pdf) |

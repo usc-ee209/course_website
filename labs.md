@@ -15,7 +15,8 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 <tbody>
 <tr>
     <th>Lab</th>
-    <th>Due Date *</th>
+    <th>Start</th>
+    <th>Due</th>
     <th>Handout/Topic</th>
     <th>Files to Download</th>
     <th>Notes and Other Links</th>
@@ -24,12 +25,22 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 <tr>
     <td>Lab 1</td>
     <td>8/28</td>
+    <td>9/4 in discussion</td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab1.pdf">Sound the Alarm</a></td>
     <td>None</td>
     <td><strong><a href="http://ee.usc.edu/~redekopp/Streaming/ee101_trainerboard_tutorial/ee101_trainerboard_tutorial.html">Trainer Board Intro. Video (Watch before Friday)</a><strong><br>
     <strong><a href="http://ee.usc.edu/~redekopp/Streaming/ee101_lab1_intro/ee101_lab1_intro.html">Lab 1 Intro Video (Watch before Friday)</a><strong><br>
     <a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab1_board_slides.pdf">Tutorial Board slides (reference)</a></td>
-    <td>TBA</td>
+    <td>Hard copy</td>
+</tr>
+<tr>
+    <td>Lab 2</td>
+    <td>9/4</td>
+    <td>9/11 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab2.pdf">Xilinx CAD Tools overview</a></td>
+    <td>None</td>
+    <td>Follow the Xilinx setup instructions and watch the four videos for learning to use the Xilinx schematic entry tool and simulation tools  on <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a>.</td>
+    <td>Hard copy / Print-outs</td>
 </tr>
 </tbody>
 </table>

@@ -22,5 +22,13 @@ Follow [these directions](http://ee.usc.edu/~redekopp/ee209/Xilinx14_7Install_20
 
   - For those running Windows 8 or 10 you might try this [link](http://www.eevblog.com/forum/microcontrollers/guide-getting-xilinx-ise-to-work-with-windows-8-64-bit/) for tips on getting the installation to work on your OS.
 
+#### Video Tutorials
+Please watch the following 4 videos to learn the basics of using the Xilinx tools:
+
+  1. [Project Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_project_creation/ee101_xilinx13_project_creation.html)
+  1. [Schematic Entry](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_schematic_entry/ee101_xilinx13_schematic_entry.html)
+  1. [Testbench Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_tb_entry/ee101_xilinx13_tb_entry.html)
+  1. [Simulation with ISim](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_isim/ee101_xilinx13_isim.html)
+  
 
 
