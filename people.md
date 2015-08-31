@@ -17,7 +17,7 @@ For special questions, you can contact your instructor. However, we encourage y
 |  Name           |           | Email        | Office Hours      | Location   |
 |:---------------:|:---------:|:------------:|:-----------------:|:----------:|
 | Kun Yue | <img src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt="Kun" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | kunyue@     | M: 12-2, T: 3:30-6:30                | VHE 205    |
-| Varun Shivashankar | <img src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt="Kun" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | shivalin@     | TBA                | VHE 205    |
+| Varun Shivashankar | <img src="http://bits.usc.edu/cs103/wp-content/uploads/sites/11/2014/08/download.jpg" alt="Kun" width="85" height="90" class="alignnone size-thumbnail wp-image-1629" />                          | shivalin@     | Th: 5-8                | VHE 205    |
 
 
 ###Grader
