@@ -39,7 +39,7 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>9/11 in discussion</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_lab2.pdf">Xilinx CAD Tools overview</a></td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/xilinx_intro.zip">Skeleton Project (.zip)</a></td>
-    <td>Follow the Xilinx setup instructions and watch the four videos for learning to use the Xilinx schematic entry tool and simulation tools  on <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a>.</td>
+    <td>Follow the Xilinx setup instructions and <strong>watch the four videos</strong> for learning to use the Xilinx schematic entry tool and simulation tools  on <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong>.</td>
     <td>Hard copy / Print-outs</td>
 </tr>
 </tbody>
