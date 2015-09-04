@@ -22,6 +22,15 @@ Follow [these directions](http://ee.usc.edu/~redekopp/ee209/Xilinx14_7Install_20
 
   - For those running Windows 8 or 10 you might try this [link](http://www.eevblog.com/forum/microcontrollers/guide-getting-xilinx-ise-to-work-with-windows-8-64-bit/) for tips on getting the installation to work on your OS.
 
+#### Run Xilinx on the Viterbi IT Virtual Desktop Interface.
+You can use an Mac or Windows client PC and VMWare's Horizon Client software to connect to a virtual (remote) desktop system where you can run the Xilinx software.  Follow the directions linked below.
+
+  - [Directions for installing VMWare's Horizon Client and connecting to the remote desktop servers](http://viterbi.usc.edu/assets/195/94372.pdf)
+  - Notes:
+    + Sometimes you have to connect twice (or enter your login info twice).
+    + You should save your work in the `U:` drive which will persist from session to session for the length of the semester.  **Any work saved in any other area will usually be deleted nightly**.
+    + Let us know if you encounter errors by posting on Piazza.    
+    
 #### Video Tutorials
 Please watch the following 4 videos to learn the basics of using the Xilinx tools:
 
