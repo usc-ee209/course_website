@@ -39,5 +39,10 @@ Please watch the following 4 videos to learn the basics of using the Xilinx tool
   1. [Testbench Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_tb_entry/ee101_xilinx13_tb_entry.html)
   1. [Simulation with ISim](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_isim/ee101_xilinx13_isim.html)
   
+### Digilent Adept Software Installation
+The Digilent Adept software is used to download the HW configuration files produced by Xilinx onto our Nexys-2 boards so we can see our design run.  Follow the link below and install the software:
+
+  1. [Adept for Windows](http://www.digilentinc.com/Data/Products/adept2/digilent.adept.system_v2.16.1.exe)
+  1. [Adept for Linux](http://www.digilentinc.com/Products/Detail.cfm?Prod=ADEPT2)
 
 
