@@ -42,6 +42,15 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>Follow the Xilinx setup instructions and <strong>watch the four videos</strong> for learning to use the Xilinx schematic entry tool and simulation tools  on <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong>.</td>
     <td>Hard copy / Print-outs</td>
 </tr>
+<tr>
+    <td>03</td>
+    <td>9/11</td>
+    <td>9/18 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/mmind.pdf">Mastermind Game</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/mmind.zip">Skeleton Project (.zip)</a></td>
+    <td>To use the FPGA boards we provide you will need to install the Digilent Adept tool for burning the FPGAs with a hardware configuration file. See <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong>.</td>
+    <td>Hard copy / Print-outs</td>
+</tr>
 </tbody>
 </table>
 
