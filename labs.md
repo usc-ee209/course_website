@@ -51,6 +51,15 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>To use the FPGA boards we provide you will need to install the Digilent Adept tool for burning the FPGAs with a hardware configuration file. See <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong>.</td>
     <td>Hard copy / Print-outs</td>
 </tr>
+<tr>
+    <td>04</td>
+    <td>9/18</td>
+    <td>9/25 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/mmind_kmap.pdf">Mastermind Remix</a></td>
+    <td>Reuse your old project from previous lab</td>
+    <td></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
 </tbody>
 </table>
 
