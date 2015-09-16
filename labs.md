@@ -56,8 +56,8 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>9/18</td>
     <td>9/25 in discussion</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/mmind_kmap.pdf">Mastermind Remix</a></td>
-    <td>Reuse your old project from previous lab</td>
     <td></td>
+    <td>Reuse your old Xilinx project from previous lab</td>
     <td>Hard copy / Print-outs</td>
 </tr>
 </tbody>
