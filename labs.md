@@ -60,6 +60,16 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>Reuse your old Xilinx project from previous lab</td>
     <td>Hard copy / Print-outs</td>
 </tr>
+<tr>
+    <td>05</td>
+    <td>9/25</td>
+    <td>10/9 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_cla.pdf">Fast Adders</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/cla.zip">CLA Skeleton Project</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/cla.zip">RCA Complete Project (for Review Questions)</a></td>
+    <td>Watch the <strong>three</strong> "advanced" Xilinx skills videos (advanced schematic entry, simulation, synthesis) on <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
 </tbody>
 </table>
 

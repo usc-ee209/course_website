@@ -31,13 +31,21 @@ You can use an Mac or Windows client PC and VMWare's Horizon Client software to 
     + You should save your work in the `U:` drive which will persist from session to session for the length of the semester.  **Any work saved in any other area will usually be deleted nightly**.
     + Let us know if you encounter errors by posting on Piazza.    
     
-#### Video Tutorials
+#### Xilinx Introductory Tutorial Videos
 Please watch the following 4 videos to learn the basics of using the Xilinx tools:
 
   1. [Project Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_project_creation/ee101_xilinx13_project_creation.html)
   1. [Schematic Entry](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_schematic_entry/ee101_xilinx13_schematic_entry.html)
   1. [Testbench Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_tb_entry/ee101_xilinx13_tb_entry.html)
   1. [Simulation with ISim](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_isim/ee101_xilinx13_isim.html)
+  
+#### Xilinx "Advanced" Tutorial Videos
+Please watch the following 3 videos to learn the basics of using the Xilinx tools:
+
+  1. [Advanced Schematic Entry](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_adv_entry/ee101_xilinx13_adv_entry.html)
+  1. [Advanced Testbench Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_adv_sim/ee101_xilinx13_adv_sim.html)
+  1. [Synthesis Creation](http://ee.usc.edu/~redekopp/Streaming/ee101_xilinx13_adv_synth/ee101_xilinx13_adv_synth.html)
+
   
 ### Digilent Adept Software Installation
 The Digilent Adept software is used to download the HW configuration files produced by Xilinx onto our Nexys-2 boards so we can see our design run.  Follow the link below and install the software:
