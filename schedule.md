@@ -19,29 +19,29 @@ nav: lectures
 | **7**     | Combinational Synthesis - Karnaugh Maps <br>(*Vahid: 6.2*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture5a.pdf)] |  
 | **8**     | Combinational Synthesis - Muxes & Memories <br>(*Vahid: 7.3*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture5b.pdf)] |  
 | **9**     | Arithmetic Circuits and Adder Examples <br>(*Vahid: 4.3, 4.6-4.7*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture6.pdf)] |  
-| **10**    | Bistables & Latches <br>(*Vahid: 3.1-3.2*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture7.pdf)] |  
-| **11**    | Flip Flops <br>(*Vahid: 3.3-3.4*)           |  Previous slides (cont.) |  
-| **12**    | Introduction to State Machines <br> State Machine Analysis <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture8.pdf)] |
-| **Oct. 1st** | Midterm during Quiz section (Oct. 1:  7-9 p.m.) | |
-| **13**    | State Machine Design <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture9.pdf)]   
-| **14**    | Control & Datapath Design           |  Previous slides (cont.)  |  
-| **15**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [TBA]  |  
-| **16**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
-| **17**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
-| **18**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
-| **19**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
-| **20**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
-| **21**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
-| **22**    | CMOS Layout<br>(*Kang, Ch. 2*)           |  [TBA]  |  
-| **23**    | CMOS Layout Project           |  [TBA]  |  
-| **24**    | Wire and Gate Delay Models <br> (*Kang, Ch. 6*) <br> Pass transistors / Transmission Gates <br> (*Kang, Ch. 7.5*)          |  [TBA]  |  
-| **Nov. 12th** | Midterm during Quiz section (Nov. 12:  7-9 p.m.) | |
-| **25**    | SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [TBA]  |  
-| **26**    | System Design <br> HW/SW Partitioning           |  [TBA]  |  
-| **27**    | Processing Architectures<br>Pipelining           |  [TBA]  |  
+| **10**    | More Arithmetic, Intro to Bistables<br>(*Vahid: 3.1*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture7.pdf)] |  
+| **11**    | Bistables & Latches <br>(*Vahid: 3.2-3.3*)           |  Previous slides (cont.) |  
+| **12**    | Flip Flops (*Vahid: 3.3-3.4*) | |
+| **13**    | Introduction to State Machines <br> State Machine Analysis <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture8.pdf)]    
+| **14**    | State Machine Design <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture9.pdf)]
+| **15**    | State Machine Design <br> Control & Datapath Design           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture10.pdf)]  |  
+| **16**    | More Control & Datapath Design           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture11.pdf)]  |  
+| **17**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [TBA]  |  
+| **18**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
+| **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
+| **20**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
+| **Oct. 29nd** | Midterm during Quiz section (Oct. 29:  7-9 p.m.) | |
+| **21**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
+| **22**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
+| **23**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
+| **24**    | CMOS Layout<br>(*Kang, Ch. 2*)           |  [TBA]  |  
+| **25**    | CMOS Layout Project           |  [TBA]  |  
+| **26**    | System Design <br> HW/SW Partitioning   |  
+| **27**    | Wire and Gate Delay Models <br> (*Kang, Ch. 6*) <br> Pass transistors / Transmission Gates <br> (*Kang, Ch. 7.5*)          | [TBA] |  
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
-| **29**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)           |  [TBA]  |  
-| **30**    | Review           |  [TBA]  |  
+| **29**    | [TBA]SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [TBA]    |
+| **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  [TBA]  |  
+| **Dec. 3rd** | Midterm during Quiz section (Dec 3:  7-9 p.m.) | |
 | |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
 
 
