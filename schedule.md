@@ -30,7 +30,7 @@ nav: lectures
 | **18**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
 | **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
 | **20**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
-| **Oct. 29nd** | Midterm during Quiz section (Oct. 29:  7-9 p.m.) | |
+| **Oct. 29th** | Midterm during Quiz section (Oct. 29:  7-9 p.m.) | |
 | **21**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
 | **22**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
 | **23**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
@@ -39,7 +39,7 @@ nav: lectures
 | **26**    | System Design <br> HW/SW Partitioning   |  
 | **27**    | Wire and Gate Delay Models <br> (*Kang, Ch. 6*) <br> Pass transistors / Transmission Gates <br> (*Kang, Ch. 7.5*)          | [TBA] |  
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
-| **29**    | [TBA]SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [TBA]    |
+| **29**    | SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [TBA]    |
 | **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  [TBA]  |  
 | **Dec. 3rd** | Midterm during Quiz section (Dec 3:  7-9 p.m.) | |
 | |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
