@@ -66,8 +66,17 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td>10/9 in discussion</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_cla.pdf">Fast Adders</a></td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/cla.zip">CLA Skeleton Project</a><br>
-        <a href="http://ee.usc.edu/~redekopp/ee209/cla.zip">RCA Complete Project (for Review Questions)</a></td>
+        <a href="http://ee.usc.edu/~redekopp/ee209/rca.zip">RCA Complete Project (for Review Questions)</a></td>
     <td>Watch the <strong>three</strong> "advanced" Xilinx skills videos (advanced schematic entry, simulation, synthesis) on <strong> <a href="http://bits.usc.edu/ee209/tools.html">the tools page</a></strong></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
+<tr>
+    <td>06</td>
+    <td>10/9</td>
+    <td>10/16 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/seqdet.pdf">Sequence Detector</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/seqdet.zip">Skeleton Project</a></td>
+    <td></td>
     <td>Hard copy / Print-outs</td>
 </tr>
 </tbody>
