@@ -28,9 +28,9 @@ nav: lectures
 | **16**    | More Control & Datapath Design           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture11.pdf)]  |  
 | **17**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [TBA]  |  
 | **18**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
+| **Oct. 22nd** | Midterm during Quiz section (Oct. 22:  7-9 p.m. in SGM 123) | |
 | **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
 | **20**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
-| **Oct. 29th** | Midterm during Quiz section (Oct. 29:  7-9 p.m.) | |
 | **21**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
 | **22**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
 | **23**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
