@@ -8,6 +8,12 @@ nav: tools
 Links to Prof. Redekopps's [online logic design course lectures](https://marksee101.appspot.com/)
 
 ### Practice Exams
+#### Exam 1
+ - [Don't Make These Mistakes](http://ee.usc.edu/~redekopp/ee209/EE209LogicMistakes.pdf) - Student mistakes from previous exams...No solutions (try them and compare with friends).
+ - [Sample Combinational Questions](http://ee.usc.edu/~redekopp/ee209/SampleLogicExam1.pdf)
+ - [Sample Combinational Questions Solutions](http://ee.usc.edu/~redekopp/ee209/SampleLogicExam1Sol.pdf)
+ - [Sample Midterm](http://ee.usc.edu/~redekopp/ee209/SampleCumulativeExam.pdf)
+ - [Sample Midterm Solutions](http://ee.usc.edu/~redekopp/ee209/SampleCumulativeExamSol.pdf)
 
 ### Logic Trainer Board
 See the description [here](http://ee.usc.edu/~redekopp/ee101/LogicTrainerUserManual.pdf).
