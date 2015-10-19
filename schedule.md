@@ -25,8 +25,8 @@ nav: lectures
 | **13**    | Introduction to State Machines <br> State Machine Analysis <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture8.pdf)]    
 | **14**    | State Machine Design <br>(*Vahid: 3.3-3.4*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture9.pdf)]
 | **15**    | State Machine Design <br> Control & Datapath Design           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture10.pdf)]  |  
-| **16**    | More Control & Datapath Design           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture11.pdf)]  |  
-| **17**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [TBA]  |  
+| **16**    | More Control & Datapath Design           |  [Lecture Notes]  |  
+| **17**    | Transistor Switching Models<br> nMOS, pMOS, CMOS           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture11.pdf)]  |  
 | **18**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [TBA]  |  
 | **Oct. 22nd** | Midterm during Quiz section (Oct. 22:  7-9 p.m. in SGM 123) | |
 | **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [TBA]  |  
