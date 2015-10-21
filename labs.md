@@ -88,6 +88,15 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td></td>
     <td>Hard copy / Print-outs</td>
 </tr>
+<tr>
+    <td>08</td>
+    <td>10/23</td>
+    <td>10/30 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/ee209_cmos_gate.pdf">CMOS Gate Implementation</a></td>
+    <td></td>
+    <td></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
 </tbody>
 </table>
 
