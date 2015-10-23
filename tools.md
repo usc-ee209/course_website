@@ -60,3 +60,12 @@ The Digilent Adept software is used to download the HW configuration files produ
   1. [Adept for Linux](http://www.digilentinc.com/Products/Detail.cfm?Prod=ADEPT2)
 
 
+### Cadence Virtuoso Setup
+Cadence is a major technology company in the electronic design automation (EDA) industry.  Its Virtuoso tool is an industry standard tool that we will teach you a bit about.  Please go through the following documents to get the software setup. It only runs on USC's UNIX servers so you'll need to setup your account.  You can use your USC username and email to login to the UNIX servers but will need some kind of remote access software PuTTY, VNC, X-Win Server, etc.  Go through the following documents.  If you have any problems, just post on Piazza.
+
+  1. [USC Unix Account Setup](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/UnixAccountSetup.pdf)
+  1. [USC Virtuoso Tutorial](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/USCVLSI-VirtuosoTutorial.pdf)
+     - [cshrc login script](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/cshrc_linux)
+     - [tsmc.spice technology-specific file](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/tsmc.spice)
+
+  
