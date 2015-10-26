@@ -73,7 +73,4 @@ Cadence is a major technology company in the electronic design automation (EDA) 
 The Cadence tools are accessible only on USC's UNIX servers (student server is `aludra.usc.edu`).  While you can use tools like X11 or X-Win to remote desktop to aludra, VNC is a thin remote-desktop client that is very fast and requires minimal network bandwidth.  
 
 To install and use VNC, follow [these instructions](http://ee.usc.edu/~redekopp/ee209/VNC_setup.pdf)
-
-
-
- 
+  - Note:  To login to aludra to just start VNC, you need not use X-Win but can use PuTTy on Windows machines and Terminal/`ssh` on Mac.
