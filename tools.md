@@ -67,5 +67,6 @@ Cadence is a major technology company in the electronic design automation (EDA) 
   1. [USC Virtuoso Tutorial](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/USCVLSI-VirtuosoTutorial.pdf)
      - [cshrc login script](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/cshrc_linux)
      - [tsmc.spice technology-specific file](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/tsmc.spice)
+     - [vlsi_tools.csh](http://ee.usc.edu/~redekopp/ee209/virtuoso/setup/vlsi_tools.csh)
 
   
