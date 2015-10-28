@@ -30,8 +30,8 @@ nav: lectures
 | **18**    | Elementary Circuit Concepts<br>SemiConductor Fundamentals<br>Diodes           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture12.pdf)]  |  
 | **Oct. 22nd** | Midterm during Quiz section (Oct. 22:  7-9 p.m. in SGM 123) | |
 | **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture13.pdf)]  |  
-| **20**    | CMOS and Other Logic Families<br>Implementing Combinational Logic<br>(*Kang, Ch. 7.1-7.4*)           |  [TBA]  |  
-| **21**    | CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)          |  [TBA]  |  
+| **20**    | More MOSFETs<br>Transistor Sizing           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture14.pdf)]  |  
+| **21**    | CMOS and Other Logic Families<br>(*Kang, Ch. 7.1-7.4*)<br>CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)  |  [TBA]  |  
 | **22**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
 | **23**    | CMOS Fabrication Principles<br>(*Kang, Ch. 2*)           |  [TBA]  |  
 | **24**    | CMOS Layout<br>(*Kang, Ch. 2*)           |  [TBA]  |  
