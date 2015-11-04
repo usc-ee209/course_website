@@ -33,7 +33,7 @@ nav: lectures
 | **20**    | More MOSFETs<br>Transistor Sizing           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture14.pdf)]  |  
 | **21**    | CMOS and Other Logic Families<br>(*Kang, Ch. 7.1-7.4*)  | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture15.pdf)]   |  
 | **22**    | MOSFET capacitance<br>Parasitics<br>(*Kang, Ch. 3*)           |  [TBA]  |  
-| **23**    | <br>CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)           |  [TBA]  |  
+| **23**    | <br>CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture16.pdf)]  |  
 | **24**    | CMOS Layout<br>(*Kang, Ch. 2*)           |  [TBA]  |  
 | **25**    | CMOS Layout Project           |  [TBA]  |  
 | **26**    | System Design <br> HW/SW Partitioning   |  
