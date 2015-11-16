@@ -31,15 +31,15 @@ nav: lectures
 | **Oct. 22nd** | Midterm during Quiz section (Oct. 22:  7-9 p.m. in SGM 123) | |
 | **19**    | n- and p-channel MOSFETs<br>(*Kang, Ch. 3*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture13.pdf)]  |  
 | **20**    | More MOSFETs<br>Transistor Sizing           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture14.pdf)]  |  
-| **21**    | CMOS and Other Logic Families<br>(*Kang, Ch. 7.1-7.4*)  | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture15.pdf)]   |  
+| **21**    | CMOS and Other Logic Families<br>(*Kang, Ch. 7.1-7.5*)  | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture15.pdf)]   |  
 | **22**    | <br>CMOS inverter (Static Characteristics)<br>Noise Margins<br>(*Kang, Ch. 5*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture16.pdf)]  |  
 | **23**    | CMOS Layout<br>(*Kang, Ch. 2*)<br>MOSFET capacitance & Parasitics<br>(*Kang, Ch. 3*)           |  [[[Layout PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture17.pdf)] <br> [[Capacitance PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture18.pdf)]  |  
-| **24**    | SRAM, DRAM, Non-Volatile Memory <br> (*Kang, Ch. 10*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture19.pdf)]  |  
-| **25**    | CMOS Layout Project           |  [TBA]  |  
-| **26**    | System Design <br> HW/SW Partitioning   |  
-| **27**    | Wire and Gate Delay Models <br> (*Kang, Ch. 6*) <br> Pass transistors / Transmission Gates <br> (*Kang, Ch. 7.5*)          | [TBA] |  
+| **24**    | MOSFET capacitance, Parasitics, and Delay<br>(*Kang, Ch. 3*)            |  [[Capacitance PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture18.pdf)]  |  
+| **25**    | Sequential Logic, SRAM, and DRAM <br> (*Kang, Ch. 10*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture19.pdf)]  |  
+| **26**    | System Design <br> HW/SW Partitioning <br> Final Project  |  
+| **27**    | Single-Cycle CPU          | [TBA] |  
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
-| **29**    |            |  [TBA]    |
+| **29**    | More on Final Project           |  [TBA]    |
 | **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  [TBA]  |  
 | **Dec. 3rd** | Midterm during Quiz section (Dec 3:  7-9 p.m.) | |
 | |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
