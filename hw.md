@@ -20,5 +20,5 @@ For detailed information on late submission policies, grace periods, and similar
 | [**HW04**](http://ee.usc.edu/~redekopp/ee209/ee209_hw4.pdf)<br>[**Xilinx Project**](http://ee.usc.edu/~redekopp/ee209/ee209_hw4.zip)  | Adders & Sequential Logic    | HW4a,b,c,d due on 10/6 @ 11:59 PM (on Blackboard)<br>HW4b Paper Schematics due in class on 10/7   | [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw4_sol.pdf) |
 | [**HW05**](http://ee.usc.edu/~redekopp/ee209/ee209_hw5.pdf)<br>[**Xilinx Project**](http://ee.usc.edu/~redekopp/ee209/ee209_hw5.zip)    | State Machines               | HW5a,b,c due on 10/18 @ 11:59 PM (on Blackboard)   |  [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw5_sol.pdf) |
 | [**HW06**](http://ee.usc.edu/~redekopp/ee209/ee209_hw6.pdf)  | Logic Gates        | HW6 due on 11/16 (in  class)    |  [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw6_sol.pdf) |
-| [**HW07**](http://ee.usc.edu/~redekopp/ee209/ee209_hw7.pdf)  | TBA        | TBA on Blackboard   |  [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw7_sol.pdf) |
+| [**HW07**](http://ee.usc.edu/~redekopp/ee209/ee209_hw7.pdf)  | Delay and Capacitance        | HW7 due on 11/30 (in class)   |  [Link](http://ee.usc.edu/~redekopp/ee209/ee209_hw7_sol.pdf) |
 
