@@ -97,6 +97,33 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td></td>
     <td>Hard copy / Print-outs</td>
 </tr>
+<tr>
+    <td>09</td>
+    <td>-</td>
+    <td>11/13 in discussion</t>
+    <td>CMOS Inverter Layout</td>
+    <td></td>
+    <td></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>-</td>
+    <td>11/20 in discussion</t>
+    <td>CMOS NAND2 Layout</td>
+    <td></td>
+    <td></td>
+    <td>Hard copy / Print-outs</td>
+</tr>
+<tr>
+    <td>11a</td>
+    <td>11/20</td>
+    <td>12/4 in discussion</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.pdf">Project Part 1</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.zip">Skeleton Project</a></td>
+    <td></td>
+    <td>Hard copy / Online Submission Here</td>
+</tr>
 </tbody>
 </table>
 
