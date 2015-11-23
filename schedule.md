@@ -37,7 +37,7 @@ nav: lectures
 | **24**    | MOSFET capacitance, Parasitics, and Delay<br>(*Kang, Ch. 3*)            |  [[Capacitance PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture18.pdf)]  |  
 | **25**    | Sequential Logic, SRAM, and DRAM <br> (*Kang, Ch. 10*)           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture19.pdf)]  |  
 | **26**    | System Design <br> HW/SW Partitioning <br> Final Project  |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture20.pdf)]  | 
-| **27**    | Single-Cycle CPU          | [TBA] |  
+| **27**    | Single-Cycle CPU          | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture21.pdf)] |  
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
 | **29**    | More on Final Project           |  [TBA]    |
 | **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  [TBA]  |  
