@@ -122,8 +122,17 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.pdf">Project Part 1</a></td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.zip">Skeleton Project</a></td>
     <td></td>
-    <td>Hard copy / Online Submission Here</td>
+    <td>Hard copy / <a href="http://bits.usc.edu/codedrop/?course=ee209-fa15&assignment=sqrt1&auth=Google#">Online Submission Here</a></td>
 </tr>
+<tr>
+    <td>11b</td>
+    <td>12/1</td>
+    <td>12/12 online</t>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt2.pdf">Project Part 1</a></td>
+    <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt2.zip">Skeleton Project</a><br>
+	<a href="http://bits.usc.edu/codedrop/?course=ee209-fa15&assignment=pasm&auth=Google#">PSM File Assembler Website</a></td>
+    <td></td>
+   <td><a href="http://bits.usc.edu/codedrop/?course=ee209-fa15&assignment=sqrt2&auth=Google#">Online Submission Here</a></td></tr>
 </tbody>
 </table>
 
