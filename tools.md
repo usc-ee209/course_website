@@ -15,6 +15,10 @@ Links to Prof. Redekopps's [online logic design course lectures](https://marksee
  - [Sample Midterm](http://ee.usc.edu/~redekopp/ee209/SampleCumulativeExam.pdf)
  - [Sample Midterm Solutions](http://ee.usc.edu/~redekopp/ee209/SampleCumulativeExamSol.pdf)
 
+#### Exam 2
+ - [Sample Midterm](http://ee.usc.edu/~redekopp/ee209/SampleMidterm2.pdf)
+ - [Sample Midterm Solutions](http://ee.usc.edu/~redekopp/ee209/SampleMidterm2Sol.pdf)
+
 ### Logic Trainer Board
 See the description [here](http://ee.usc.edu/~redekopp/ee101/LogicTrainerUserManual.pdf).
 
