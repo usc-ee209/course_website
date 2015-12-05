@@ -118,7 +118,7 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 <tr>
     <td>11a</td>
     <td>11/20</td>
-    <td>12/4 in discussion</t>
+    <td>12/7 in discussion</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.pdf">Project Part 1</a></td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt1.zip">Skeleton Project</a></td>
     <td></td>
@@ -127,7 +127,7 @@ All labs must be demoed in your registered lab **1 week after it is assigned unl
 <tr>
     <td>11b</td>
     <td>12/1</td>
-    <td>12/12 online</t>
+    <td>12/13 online</t>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt2.pdf">Project Part 2</a></td>
     <td><a href="http://ee.usc.edu/~redekopp/ee209/sqrt2.zip">Skeleton Project</a></td>
     <td>
