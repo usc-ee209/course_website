@@ -39,8 +39,8 @@ nav: lectures
 | **26**    | System Design <br> HW/SW Partitioning <br> Final Project  |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture20.pdf)]  | 
 | **27**    | Single-Cycle CPU          | [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture21.pdf)] |  
 | **28**    | **Holiday - Thanksgiving Break**           |    |  
-| **29**    | More on Final Project           |  [TBA]    |
-| **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  [TBA]  |  
+| **29**    | More on Final Project           |  [[PDF](http://ee.usc.edu/~redekopp/ee209/slides/EE209Lecture22.pdf)]    |
+| **30**    | Implementation Technologies (FPGA / Std-cell ASIC / Custom ASIC)<br>Review           |  None |  
 | **Dec. 3rd** | Midterm during Quiz section (Dec 3:  7-9 p.m.) | |
 | |  Final Project Due during Final Exam Period - (See Schedule of Classes) | |
 
